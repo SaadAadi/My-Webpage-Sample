@@ -11,7 +11,7 @@
 
 }
 header{
-    background: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),url("2.jpeg");
+    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.4)),url("2.jpeg");
     height: 100vh;
     -webkit-backdrop-size:cover;
     background-size:cover;
